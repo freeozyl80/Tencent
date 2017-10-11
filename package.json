@@ -1,0 +1,28 @@
+{
+  "name": "no",
+  "version": "1.0.0",
+  "description": "some code when i in Tencent",
+  "main": "index.js",
+  "bin": {
+    "autocmd": "./cmd/cm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeozyl80/Tencent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeozyl80/Tencent/issues"
+  },
+  "homepage": "https://github.com/freeozyl80/Tencent#readme",
+  "dependencies": {
+    "@std/esm": "^0.2.2",
+    "chokidar": "^1.7.0",
+    "shelljs": "^0.7.8",
+    "yargs": "^8.0.2"
+  }
+}
