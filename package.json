@@ -22,7 +22,12 @@
   "dependencies": {
     "@std/esm": "^0.2.2",
     "chokidar": "^1.7.0",
+    "puppeteer": "^0.12.0",
     "shelljs": "^0.7.8",
     "yargs": "^8.0.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
   }
 }
